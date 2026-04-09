@@ -1,6 +1,6 @@
 # 自定义域名+ip 非策略组需要代理的域名以及ip
-DOMAIN,www.dynadot.cn
-
+DOMAIN-SUFFIX,dynadot.cn
+DOMAIN-SUFFIX,dynadot.com
 # 访问 IP → 即可匹配
 # IP-CIDR,64.233.177.188/32,no-resolve
 # 解析域名 → 得到IP → 再匹配
