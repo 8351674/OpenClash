@@ -1,4 +1,4 @@
-# 自定义域名+ip 非策略组域名以及ip走代理
+# 自定义域名+ip 国外
 DOMAIN-SUFFIX,dnshe.com
 # 访问 IP → 即可匹配
 # IP-CIDR,64.233.177.188/32,no-resolve
