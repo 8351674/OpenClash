@@ -1,4 +1,4 @@
-# 自定义域名+ip
+# 自定义域名+ip 非策略组需要代理的域名以及ip
 DOMAIN,www.dynadot.cn
 
 # 访问 IP → 即可匹配
