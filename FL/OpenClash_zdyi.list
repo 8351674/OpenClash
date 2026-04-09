@@ -1,3 +1,7 @@
 # 自定义域名+ip
 DOMAIN,www.dynadot.cn
+
+#访问 IP → 即可匹配
 # IP-CIDR,64.233.177.188/32,no-resolve
+#解析域名 → 得到IP → 再匹配
+#IP-CIDR,204.15.20.0/22
