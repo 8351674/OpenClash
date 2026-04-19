@@ -1,6 +1,10 @@
 # 自定义域名+ip 国外
 DOMAIN-SUFFIX,dynadot.cn
 DOMAIN-SUFFIX,dynadot.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,pages.dev
 # 访问 IP → 即可匹配
 # IP-CIDR,64.233.177.188/32,no-resolve
 # 解析域名 → 得到IP → 再匹配
