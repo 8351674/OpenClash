@@ -1,6 +1,7 @@
 # 自定义域名+ip 国内
 DOMAIN-SUFFIX,dnshe.com
 DOMAIN-SUFFIX,ghw9zwp5.com
+DOMAIN-SUFFIX,ccwu.cc
 # 访问 IP → 即可匹配
 # IP-CIDR,64.233.177.188/32,no-resolve
 # 解析域名 → 得到IP → 再匹配
